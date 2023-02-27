@@ -2124,6 +2124,7 @@ section.cta-about:before {
 .contact-section .contact-item-wrapper .contact-item .contact-content {
   margin-left: 25px;
 }
+
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .contact-section .contact-item-wrapper .contact-item .contact-content {
     margin-left: 20px;
